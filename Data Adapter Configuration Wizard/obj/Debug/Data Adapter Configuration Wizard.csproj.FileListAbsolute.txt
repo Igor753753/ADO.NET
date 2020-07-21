@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\bin\Debug\Data Adapter Configuration Wizard.exe.config
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\bin\Debug\Data Adapter Configuration Wizard.exe
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\bin\Debug\Data Adapter Configuration Wizard.pdb
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data Adapter Configuration Wizard.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data_Adapter_Configuration_Wizard.Form1.resources
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data_Adapter_Configuration_Wizard.Properties.Resources.resources
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data Adapter Configuration Wizard.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data Adapter Configuration Wizard.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data Adapter Configuration Wizard.exe
+C:\Users\илья\source\repos\Data Adapter Configuration Wizard\obj\Debug\Data Adapter Configuration Wizard.pdb

@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.Form1.resources
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.Properties.Resources.resources
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\GreatingDataTable\bin\Debug\GreatingDataTable.exe.config
+C:\Users\илья\source\repos\GreatingDataTable\bin\Debug\GreatingDataTable.exe
+C:\Users\илья\source\repos\GreatingDataTable\bin\Debug\GreatingDataTable.pdb
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.exe
+C:\Users\илья\source\repos\GreatingDataTable\obj\Debug\GreatingDataTable.pdb
