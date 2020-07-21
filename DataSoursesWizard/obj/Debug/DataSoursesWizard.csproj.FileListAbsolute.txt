@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\DataSoursesWizard\bin\Debug\DataSoursesWizard.exe.config
+C:\Users\илья\source\repos\DataSoursesWizard\bin\Debug\DataSoursesWizard.exe
+C:\Users\илья\source\repos\DataSoursesWizard\bin\Debug\DataSoursesWizard.pdb
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.Form1.resources
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.Properties.Resources.resources
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.exe
+C:\Users\илья\source\repos\DataSoursesWizard\obj\Debug\DataSoursesWizard.pdb

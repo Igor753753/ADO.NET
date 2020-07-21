@@ -1,0 +1,13 @@
+C:\Users\илья\source\repos\DBComand\bin\Debug\DBComand.exe.config
+C:\Users\илья\source\repos\DBComand\bin\Debug\DBComand.exe
+C:\Users\илья\source\repos\DBComand\bin\Debug\DBComand.pdb
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.Form1.resources
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.Properties.Resources.resources
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.exe
+C:\Users\илья\source\repos\DBComand\obj\Debug\DBComand.pdb
+C:\Users\илья\Git\ADO.NET\DBComand\obj\Debug\DBComand.csprojAssemblyReference.cache
+C:\Users\илья\Git\ADO.NET\DBComand\obj\Debug\DBComand.exe
+C:\Users\илья\Git\ADO.NET\DBComand\obj\Debug\DBComand.pdb

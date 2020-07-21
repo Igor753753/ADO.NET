@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\DataBildingSimple\bin\Debug\DataBildingSimple.exe.config
+C:\Users\илья\source\repos\DataBildingSimple\bin\Debug\DataBildingSimple.exe
+C:\Users\илья\source\repos\DataBildingSimple\bin\Debug\DataBildingSimple.pdb
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.Form1.resources
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.Properties.Resources.resources
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.exe
+C:\Users\илья\source\repos\DataBildingSimple\obj\Debug\DataBildingSimple.pdb

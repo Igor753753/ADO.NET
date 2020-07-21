@@ -1,0 +1,7 @@
+C:\Users\илья\source\repos\Ling_Student1\bin\Debug\Ling_Student1.exe.config
+C:\Users\илья\source\repos\Ling_Student1\bin\Debug\Ling_Student1.exe
+C:\Users\илья\source\repos\Ling_Student1\bin\Debug\Ling_Student1.pdb
+C:\Users\илья\source\repos\Ling_Student1\obj\Debug\Ling_Student1.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\Ling_Student1\obj\Debug\Ling_Student1.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\Ling_Student1\obj\Debug\Ling_Student1.exe
+C:\Users\илья\source\repos\Ling_Student1\obj\Debug\Ling_Student1.pdb

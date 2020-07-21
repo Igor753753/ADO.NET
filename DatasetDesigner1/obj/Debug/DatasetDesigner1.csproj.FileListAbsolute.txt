@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\DatasetDesigner1\bin\Debug\DatasetDesigner1.exe.config
+C:\Users\илья\source\repos\DatasetDesigner1\bin\Debug\DatasetDesigner1.exe
+C:\Users\илья\source\repos\DatasetDesigner1\bin\Debug\DatasetDesigner1.pdb
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.Form1.resources
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.Properties.Resources.resources
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.exe
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.pdb
+C:\Users\илья\source\repos\DatasetDesigner1\obj\Debug\DatasetDesigner1.csprojAssemblyReference.cache

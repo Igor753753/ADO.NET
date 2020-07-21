@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\DataGridViewExzample\bin\Debug\DataGridViewExzample.exe.config
+C:\Users\илья\source\repos\DataGridViewExzample\bin\Debug\DataGridViewExzample.exe
+C:\Users\илья\source\repos\DataGridViewExzample\bin\Debug\DataGridViewExzample.pdb
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.Form1.resources
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.Properties.Resources.resources
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.exe
+C:\Users\илья\source\repos\DataGridViewExzample\obj\Debug\DataGridViewExzample.pdb
